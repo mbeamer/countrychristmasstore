@@ -3,7 +3,7 @@ import Header from './Header'
 
 const Events = () => {
     return (
-        <div>
+        <div id="divMenu">
             <Header title='The Country Christmas Store' />
             This is the events page!
         </div>

@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#div_top_hypers ul#ul_top_hypers li{
+  display: inline;
+  }
+
+divMenu {
+  float: center;
+}
