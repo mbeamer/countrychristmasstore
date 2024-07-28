@@ -1,11 +1,7 @@
-import React, { useState } from 'react'
-import Header from './Header'
-
 const Home = () => {
     return (
-        <div>
-            <Header title='The Country Christmas Store' />
-            This is the home page!
+        <div class='context' style={{fontSize: 34}}>
+<p>We are closed for the 2023 season.<br />See you in the fall of 2024!</p>
         </div>
     );
 }

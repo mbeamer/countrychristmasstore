@@ -1,11 +1,10 @@
 import React from 'react'
-import Header from './Header'
+import event_banner from '../img/Event.png';
 
 const Events = () => {
     return (
-        <div id="divMenu">
-            <Header title='The Country Christmas Store' />
-            This is the events page!
+        <div>
+<center><img src={event_banner} alt='Event details' /></center>
         </div>
     );
 }
