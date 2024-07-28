@@ -20,7 +20,7 @@ const Contact = () => {
             <br />
             Find us on FaceBook and Twitter<br />
             <a href="https://www.facebook.com/thecountrychristmasstore"><img src={facebook_img} alt='facebook link' /></a>
-            <a href="https://www.twitter.com/tccs1794}"><img src={twitter_img} alt='twitter link'/></a>
+            <a href="https://www.twitter.com/tccs1794"><img src={twitter_img} alt='twitter link'/></a>
             <br />
             <br />
 WANT UPDATES?<br />
